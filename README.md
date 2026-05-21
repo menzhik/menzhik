@@ -1,11 +1,12 @@
-# Hello! 👋
-I'm a Fullstack Developer with a background in algorithms and AI.
+# Hi, I'm Maciej 👋
 
-## 🛠️ Technologies I'm Working With
-React, Next.js, TypeScript, React Query, tRPC, Tailwind CSS, PostgreSQL, Docker, Python, C++
+Fullstack Software Engineer at an early-stage startup.  
+CS + Intelligent Systems Student @ AGH UST · ICPC CERC participant.
 
-## 💡 Technologies I'm Familiar With
-C, C#, Java, Bash
+### Stack
+**Daily:** TypeScript, React, Next.js, tRPC, React Query, TailwindCSS, PostgreSQL, Docker  
+**Side projects / learning:** Rust ❤️  
+**Familiar with:** C++, Python, Bash, C, C#, Java
 
-## 📬 Let's Connect!
-If you have something I might find interesting, feel free to contact me here: [mcj.mezyk@gmail.com](mailto:mcj.mezyk@gmail.com)
+### 📬 Let's connect
+[mcj.mezyk@gmail.com](mailto:mcj.mezyk@gmail.com)
